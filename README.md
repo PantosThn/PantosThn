@@ -3,12 +3,7 @@
   <br/>
 </h1>
 
-<h3 align="center">
-  Senior Data Scientist @ <img src="assets/logos/elsevier.jpeg" alt="Elsevier" height="120" /><br/>
-  Remote from Athens 🇬🇷<br/>
-  Working for Amsterdam 🇳🇱
-</h3>
-
+<h3 align="center">Senior Data Scientist @ <span style="color:#FF6C00; font-weight:bold; font-family:Georgia, 'Times New Roman', serif;">Elsevier</span><br/>| Remote from Athens 🇬🇷 | Working for Amsterdam 🇳🇱</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thanos-pantos-2080117b/">
