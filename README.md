@@ -34,7 +34,7 @@ I'm passionate about breaking down complex topics, mentoring aspiring data scien
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 
   <!-- Dev Tools -->
-  <img src="https://skillicons.dev/icons?i=fastapi,vscode,git,docker" />
+  <img src="https://skillicons.dev/icons?i=fastapi,vscode,git,docker,pycharm" />
 
   <!-- Cloud & Infra -->
   <img src="https://skillicons.dev/icons?i=aws,azure,linux,postgres,github" />
