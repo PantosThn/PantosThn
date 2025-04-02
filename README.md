@@ -88,13 +88,3 @@ I enjoy teaching, mentoring, and building elegant solutions to real-world proble
   *University of Piraeus*  
   Specialized in Econometrics, statistical modeling, and data-driven economic analysis, integrating economic theory with quantitative techniques.
 
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PantosThn&show_icons=true&theme=default&count_private=true" />
-</p>
-
----
