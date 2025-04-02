@@ -1,10 +1,14 @@
 <h1 align="center">
   Hi, I'm Thanos Pantos 👋  
   <br/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/7/70/Elsevier_logo.svg" alt="Elsevier" height="40" />
 </h1>
 
-<h3 align="center">Senior Data Scientist @ Elsevier | Remote from Athens 🇬🇷 | Working for Amsterdam 🇳🇱</h3>
+<h3 align="center">
+  Senior Data Scientist @ <img src="assets/logos/elsevier.jpeg" alt="Elsevier" height="120" /><br/>
+  Remote from Athens 🇬🇷<br/>
+  Working for Amsterdam 🇳🇱
+</h3>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thanos-pantos-2080117b/">
@@ -76,18 +80,15 @@ I enjoy teaching, mentoring, and building elegant solutions to real-world proble
 
 ---
   
-## Education
+## 🎓 Education
 
-## Education
-
-- ![NTUA Logo](![NTUA](https://upload.wikimedia.org/wikipedia/en/3/3d/NTUA_logo.png)) **M.Sc. in Data Science & Machine Learning**  
+- <img src="assets/logos/ntua.svg" height="50" /> **M.Sc. in Data Science & Machine Learning**  
   *National Technical University of Athens (NTUA)*  
   Focused on applied machine learning, deep learning, big data systems, and real-world AI applications across various domains.
 
-- ![University of Piraeus Logo](https://upload.wikimedia.org/wikipedia/en/6/6e/University_of_Piraeus_logo.png) **B.Sc. in Economics**  
+- <img src="assets/logos/piraeus.jpeg" height="50" /> **B.Sc. in Economics**  
   *University of Piraeus*  
   Specialized in Econometrics, statistical modeling, and data-driven economic analysis, integrating economic theory with quantitative techniques.
-
 
 
 ---
