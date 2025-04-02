@@ -1,7 +1,12 @@
 <h1 align="center">
-  Hi, I'm Thanos Pantos 👋  
-  <br/>
-</h1>
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+</p>
+
 
 <h3 align="center">Senior Data Scientist @ <span style="color:#FF6C00; font-weight:bold; font-family:Georgia, 'Times New Roman', serif;">Elsevier</span><br/>| Remote from Athens 🇬🇷 | Working for Amsterdam 🇳🇱</h3>
 
@@ -16,13 +21,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **Senior Data Scientist at Elsevier**, working remotely from Greece 🇬🇷 for the Amsterdam 🇳🇱 office.  
 Previously, I worked at **Piraeus Bank**, applying data science and machine learning in the financial sector.
 
-I'm also a <img src="https://skillicons.dev/icons?i=tensorflow" height="20" alt="TensorFlow" /> Certified Developer
-[🎓 View My Certification »](https://www.credential.net/f14b9d58-7ae6-4d47-be33-b18393006aec#acc.V8iNQ3eg)
+I'm also a <img src="https://skillicons.dev/icons?i=tensorflow" height="20" alt="TensorFlow" />
+[Certified Developer](https://www.credential.net/f14b9d58-7ae6-4d47-be33-b18393006aec#acc.V8iNQ3eg)
 
 
 I specialize in **natural language processing**, **scientific text mining**, and building scalable machine learning systems.  
@@ -30,7 +35,7 @@ I enjoy teaching, mentoring, and building elegant solutions to real-world proble
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="left">
   <!-- Languages -->
@@ -49,17 +54,15 @@ I enjoy teaching, mentoring, and building elegant solutions to real-world proble
 
 ---
 
-## 🧠 Current Focus
+## Current Focus
 
 - Scientific NLP & relationship extraction  
-- Virtual assistants with LangChain + OpenAI  
-- Time series forecasting and transformer models  
-- Production ML APIs with FastAPI, Docker & CI/CD  
-- Scalable pipelines on Databricks & Azure
+- Virtual assistants with LangGraph
+- Time series forecasting and transformer models 
 
 ---
 
-## 📚 Featured Projects
+## Featured Projects
 
 - **🛰 Satellite Oil Storage Monitoring**  
   [Repo](https://github.com/PantosThn/Satellite-Oil-Storage-Monitoring) — predicting oil reserves using PyTorch and satellite imagery.
@@ -75,32 +78,23 @@ I enjoy teaching, mentoring, and building elegant solutions to real-world proble
 
 ---
   
-## 🎓 Education
+## Education
 
-- <img src="assets/logos/ntua.svg" height="50" /> **M.Sc. in Data Science & Machine Learning**  
+- <img src="assets/logos/ntua.svg" height="25" /> **M.Sc. in Data Science & Machine Learning**  
   *National Technical University of Athens (NTUA)*  
   Focused on applied machine learning, deep learning, big data systems, and real-world AI applications across various domains.
 
-- <img src="assets/logos/piraeus.jpeg" height="50" /> **B.Sc. in Economics**  
+- <img src="assets/logos/piraeus.jpeg" height="25" /> **B.Sc. in Economics**  
   *University of Piraeus*  
   Specialized in Econometrics, statistical modeling, and data-driven economic analysis, integrating economic theory with quantitative techniques.
 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PantosThn&show_icons=true&theme=default&count_private=true" />
 </p>
 
 ---
-
-## 📫 Get in Touch
-
-- 📧 [thanos.pantos@gmail.com](mailto:thanos.pantos@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/thanos-pantos-2080117b/)
-
----
-
-> *"Code with purpose, learn with passion."*
