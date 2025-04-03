@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a **Senior Data Scientist at Elsevier**, working remotely from Greece 🇬🇷 with the team in Amsterdam 🇳🇱.  
+I'm a **Senior Data Scientist at Elsevier**, working remotely from Athens 🇬🇷 with the team in Amsterdam 🇳🇱.  
 Before that, I applied data science and machine learning to the financial sector at **Piraeus Bank**.
 
 I'm a <img src="https://skillicons.dev/icons?i=tensorflow" height="20" alt="TensorFlow" />  [**TensorFlow Certified Developer**](https://www.credential.net/f14b9d58-7ae6-4d47-be33-b18393006aec#acc.V8iNQ3eg), with a strong focus on:
