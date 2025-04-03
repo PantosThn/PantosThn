@@ -14,7 +14,7 @@ Before that, I applied data science and machine learning to the financial sector
 
 I'm a <img src="https://skillicons.dev/icons?i=tensorflow" height="20" alt="TensorFlow" />  [**TensorFlow Certified Developer**](https://www.credential.net/f14b9d58-7ae6-4d47-be33-b18393006aec#acc.V8iNQ3eg), with a strong focus on:
 
-- **Natural Language Processing (NLP)**
+- **Natural Language Processing**
 - **Traditional Machine Learning**
 - **Time Series**
 
