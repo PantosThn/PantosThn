@@ -56,10 +56,10 @@ I'm passionate about breaking down complex topics, mentoring aspiring data scien
 - **🛰 Satellite Oil Storage Monitoring**  
   [Repo](https://github.com/PantosThn/Satellite-Oil-Storage-Monitoring) — predicting oil reserves using PyTorch and satellite imagery.
 
-- **🧠 OCR Microservice with FastAPI**  
+- **OCR Microservice with FastAPI**  
   [Repo](https://github.com/PantosThn/ocr-microservice-fastapi) — production-ready OCR pipeline using FastAPI and Tesseract.
 
-- **📈 Time Series Tutorial**  
+- **Time Series Tutorial**  
   [Repo](https://github.com/PantosThn/timeseries_tutorial) — hands-on notebooks covering classic + deep learning forecasting methods.
 
 ---
